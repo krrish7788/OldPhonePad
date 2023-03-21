@@ -5463,11 +5463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/krrish/Documents/Projects/OldPhonePad - C#/OldPhonePad.csproj",
+      "projectUniqueName": "/home/krrish/Documents/Projects/OldPhonePad/OldPhonePad - C#/OldPhonePad.csproj",
       "projectName": "OldPhonePad",
-      "projectPath": "/home/krrish/Documents/Projects/OldPhonePad - C#/OldPhonePad.csproj",
+      "projectPath": "/home/krrish/Documents/Projects/OldPhonePad/OldPhonePad - C#/OldPhonePad.csproj",
       "packagesPath": "/home/krrish/.nuget/packages/",
-      "outputPath": "/home/krrish/Documents/Projects/OldPhonePad - C#/obj/",
+      "outputPath": "/home/krrish/Documents/Projects/OldPhonePad/OldPhonePad - C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/krrish/.nuget/NuGet/NuGet.Config"
