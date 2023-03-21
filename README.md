@@ -24,11 +24,15 @@ Please design and document a class of method that will turn any input to OldPhon
 
 ### Solution:
 
-OldPhonePad - C# (Usage)
-1) dotnet run (Program.cs)
-2) dotnet test (Program_test.cs)
+> $ git clone https://github.com/krrish7788/OldPhonePad.git
 
-OldPhonePad - Python  (Usage)
+**OldPhonePad_C# (Usage)**
+> $ cd OldPhonePad_C# 
+1) dotnet run (Program.cs for main script)
+2) dotnet test (Program_test.cs for test cases)
+
+**OldPhonePad_Python  (Usage)**
+> $ cd OldPhonePad_Python
 1) python3 main.py (main script)
 2) python3 main_test.py (test cases)
 
