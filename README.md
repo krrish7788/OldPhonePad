@@ -3,7 +3,9 @@
 
 ### This repository consists of both C# and Python code for a coding challenge below.
 
-Imagin an old phone keypad with alphabetical letters, a backspace key, and a send button. Each button has a number to identify it and pressing a button multiple times will cycle through the letters on it allowing each button to represent more than one letter.
+Here is an old phone keypad with alphabetical letters (2-9), a space key (0), a backspace key (*), and a send key (#). Each button has a number to identify it and pressing a button multiple times will cycle through the letters on it allowing each button to represent more than one letter.
+
+![Example of an old phone keyboard](https://github.com/krrish7788/OldPhonePad/blob/main/Example%20of%20a%20old%20phone%20keyboard.jpg)
 
 For example, pressing 2 once will return ‘A’ but pressing twice in succession will return ‘B’. You must pause for a second in order to type two characters from the same button after each other: “222 2 22” -> “CAB”.
 
